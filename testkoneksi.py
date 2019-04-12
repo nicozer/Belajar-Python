@@ -1,9 +1,9 @@
 import mysql.connector
 
-db=mysql.connector.connet(
-    host="localhost"
-    user="admin"
-    passwd="admin"
+db = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    passwd=""
 )
 
 if db.is_connected():
