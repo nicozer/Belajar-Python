@@ -1,1 +1,1 @@
-KirimSensorDepan
+for i in range(len(a1)):
